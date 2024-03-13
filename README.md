@@ -28,7 +28,9 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 
 ### 사용화면
+<img width="654" alt="스크린샷 2024-03-13 오후 5 52 36" src="https://github.com/Leekayoung12/teamproject2/assets/149549320/739a75d0-2ed5-46e7-8f97-ace5534db680">
 
-<img width="662" alt="스크린샷 2024-03-13 오후 3 40 11" src="https://github.com/Leekayoung12/teamproject2/assets/149549320/f214a73b-f905-46ce-8c57-6ce70199635e">
+
+<img width="654" alt="스크린샷 2024-03-13 오후 5 54 14" src="https://github.com/Leekayoung12/teamproject2/assets/149549320/8636669a-aaea-4dcc-83e4-062265d1d669">
 
 
