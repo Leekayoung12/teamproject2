@@ -26,3 +26,8 @@
   
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 
+### 사용화면
+
+<img width="662" alt="스크린샷 2024-03-13 오후 3 40 11" src="https://github.com/Leekayoung12/teamproject2/assets/149549320/f214a73b-f905-46ce-8c57-6ce70199635e">
+
+
